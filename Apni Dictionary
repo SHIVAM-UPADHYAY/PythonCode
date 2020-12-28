@@ -1,0 +1,3 @@
+n=input("Enter symbol\n")
+dict={"+":"Addition of a two no.", "-":"Subtract of a two no." , "*":"Multiply of a two no." , "%":" divide of a no."}
+print(dict[n])
